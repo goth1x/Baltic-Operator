@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T13:24:57.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BvMxz_cpgBBbjuOOTXd7" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T03:18:25.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="j7-ALQjcdTuBcuWe1-1K" version="24.2.7" type="github">
   <diagram name="Strona-1" id="ludtMGKLYoNglBVRPGG5">
-    <mxGraphModel dx="3457" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,13 +90,13 @@
         <mxCell id="da1G7Z1QZZnTR9q6aklC-77" value="405" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="328" y="460" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="da1G7Z1QZZnTR9q6aklC-83" value="ZP Spawanie LW S1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da1G7Z1QZZnTR9q6aklC-83" value="ZP Spawanie LW S1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="464" y="220" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="da1G7Z1QZZnTR9q6aklC-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="da1G7Z1QZZnTR9q6aklC-84" target="da1G7Z1QZZnTR9q6aklC-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da1G7Z1QZZnTR9q6aklC-84" value="401" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da1G7Z1QZZnTR9q6aklC-84" value="401" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="479" y="300" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="da1G7Z1QZZnTR9q6aklC-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="da1G7Z1QZZnTR9q6aklC-85" target="da1G7Z1QZZnTR9q6aklC-107">
@@ -107,25 +107,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="da1G7Z1QZZnTR9q6aklC-85" value="402" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da1G7Z1QZZnTR9q6aklC-85" value="402" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="479" y="340" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="da1G7Z1QZZnTR9q6aklC-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="da1G7Z1QZZnTR9q6aklC-86" target="da1G7Z1QZZnTR9q6aklC-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da1G7Z1QZZnTR9q6aklC-86" value="403" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da1G7Z1QZZnTR9q6aklC-86" value="403" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="479" y="380" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="da1G7Z1QZZnTR9q6aklC-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="da1G7Z1QZZnTR9q6aklC-87" target="da1G7Z1QZZnTR9q6aklC-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da1G7Z1QZZnTR9q6aklC-87" value="404" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da1G7Z1QZZnTR9q6aklC-87" value="404" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="479" y="420" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="da1G7Z1QZZnTR9q6aklC-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="da1G7Z1QZZnTR9q6aklC-88" target="da1G7Z1QZZnTR9q6aklC-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da1G7Z1QZZnTR9q6aklC-88" value="405" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da1G7Z1QZZnTR9q6aklC-88" value="405" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="479" y="460" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="da1G7Z1QZZnTR9q6aklC-94" value="ZP Spawanie CW S1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
